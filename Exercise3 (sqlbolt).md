@@ -1,4 +1,4 @@
-# SQL LAB (sqlbolt)- EXercise 2
+# SQL LAB (sqlbolt)- Exercise 3
 ## 1.Find all the Toy Story movies
 ```sql
 SELECT * 
